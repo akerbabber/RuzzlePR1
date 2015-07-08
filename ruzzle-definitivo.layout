@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="dichiarazione_funzioni.h" open="1" top="0" tabpos="7">
+		<Cursor position="2005" topLine="0" />
+	</File>
+	<File name="eventi.h" open="1" top="0" tabpos="10">
+		<Cursor position="1550" topLine="102" />
+	</File>
+	<File name="generazione-matrice.h" open="1" top="0" tabpos="5">
+		<Cursor position="7731" topLine="211" />
+	</File>
+	<File name="interfaccia-gioco.h" open="1" top="0" tabpos="8">
+		<Cursor position="6225" topLine="79" />
+	</File>
+	<File name="interfaccia-menu.h" open="1" top="0" tabpos="9">
+		<Cursor position="358" topLine="216" />
+	</File>
+	<File name="list.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="12">
+		<Cursor position="427" topLine="0" />
+	</File>
+	<File name="record.h" open="1" top="0" tabpos="4">
+		<Cursor position="2574" topLine="35" />
+	</File>
+	<File name="ricerca.h" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="strutture.h" open="1" top="0" tabpos="11">
+		<Cursor position="708" topLine="17" />
+	</File>
+	<File name="variabili_globali.h" open="1" top="1" tabpos="2">
+		<Cursor position="697" topLine="0" />
+	</File>
+	<File name="verifica.h" open="1" top="0" tabpos="6">
+		<Cursor position="1379" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,1 @@
+Per questo programma è stato utilizzato Windows 7, ma dovrebbe essere interamente compatibile dato che non fà uso di librerie di sistema
